@@ -1,6 +1,10 @@
-# TourOfHeroes
+![Tour of Heroes, Angular tutorial](https://angular.io/assets/images/logos/angular/logo-nav@2x.png)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.3.
+---
+
+# Tour Of Heroes, pedagogic version
+
+This project is a pedagogic version of the official Angular tutorial "[Tour of Heroes](https://angular.io/tutorial)". It was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.3.
 
 ## Development server
 
