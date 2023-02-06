@@ -4,7 +4,7 @@
 
 # Tour Of Heroes, pedagogic version
 
-This project is a pedagogic version of the official Angular tutorial "[Tour of Heroes](https://angular.io/tutorial)". It was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.3.
+This project is a pedagogic version of the official Angular tutorial "[Tour of Heroes](https://angular.io/tutorial)". It's a new version of hat was written by "Thibault Truffert" aka [@cevantime](https://github.com/Cevantime). It was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.3.
 
 ## Development server
 
